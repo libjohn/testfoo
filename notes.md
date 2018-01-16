@@ -28,7 +28,9 @@ slide deck launches on Feb 21.
 1. save README2.md
 1. git status
 1. git diff
-1. git README2.md
+1. git add README2.md
+1. git diff --staged
+1. git log
 
 
 
