@@ -19,6 +19,20 @@ Here are the things I might have the most trouble remembering.  More detail in t
 > git remote -v
   
 > git show master
+
+## Procedure:  To Mirror an Existing GitHub Repo to DVS
+
+1. Goto the Social Coding Hub where you want to push your repo
+1. Create the Repo in the cloud
+
+    - no need for .gitignore, license, or README because you are mirroring a repo.
+    
+1. In the Newly created remote Repo > Settings > Collaborators
+1. Add a Collaborator
+1. Collaborator inviatation via email needs to be accepted
+1. Return to original local Repo
+1. Add a remote with the location pointer generated at the social-hub
+1. git push <mirror-repo-name> master
   
   
   
