@@ -110,7 +110,4 @@ https://githubcampus.expert
 https://internships.github.com
 
 
-## GitHub Campus Experts
-
-
 
