@@ -98,3 +98,7 @@ mozadrella-test.git
     - then ...
 
 1. git remote -v
+
+**NOTE** the -u will identify the default remote 
+
+- git show master
