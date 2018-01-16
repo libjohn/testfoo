@@ -14,7 +14,7 @@ Here are the things I might have the most trouble remembering.  More detail in t
   
 > git push -u mirror-dvs master
   
-      - `-u` makes identifies the default remote
+- `-u` makes identifies the default remote
       
 > git remote -v
   
