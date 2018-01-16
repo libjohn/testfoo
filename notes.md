@@ -31,7 +31,9 @@ slide deck launches on Feb 21.
 1. git add README2.md
 1. git diff --staged
 1. git log
-
+1. touch slides-1.html
+1. touch slides-2.html
+1. git **reset** slides-2.html
 
 
 ## Definitions
