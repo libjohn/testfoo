@@ -34,6 +34,20 @@ slide deck launches on Feb 21.
 1. touch slides-1.html
 1. touch slides-2.html
 1. git **reset** slides-2.html
+1. edit slides-1.html
+1. git status (reports different stages of slides-1.html)
+1. git commit -m "add html to slides1.html"
+1. git status
+1. git add slides-1.html
+1. git commit -m "fixed html"
+1. git status
+
+### Three fold model
+
+- working directory
+- staging area
+- repository
+
 
 
 ## Definitions
