@@ -71,4 +71,30 @@ metaphor is of a writer's desk with a:
 job of the staging area is to bridge the gap between the working space and the project history.  git users *should work towards a meaningful commit*.  
 
 - git add :: to stage changes between drafts
-- 
+
+
+## Network Activity (Exercise #2) 
+
+moving to GitHub
+
+### Remotes
+
+- Dr. Root with a class of vegatables
+
+- **`git remote add <<origin>> (REPO LOCATION)`**
+
+1. git remote
+1. git remote add 
+
+    - git remote add mirror-dvs https://github.com/data-and-visualization/
+mozadrella-test.git
+
+1. git remote
+1. git push -u mirror-dvs master
+
+    - **u** stands for *upstream*
+    - go into the mirror-dvs settings
+    - add collaborator
+    - then ...
+
+1. git remote -v
