@@ -102,3 +102,10 @@ mozadrella-test.git
 **NOTE** the -u will identify the default remote 
 
 - git show master
+
+## Hackathons
+
+https://education.github.com/pack
+
+
+
